@@ -2,4 +2,4 @@
 
 You can view the website by clicking on this link
 
-http://spotifyrah.epizy.com/
+http://spotifyrah.epizy.com
