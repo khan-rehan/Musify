@@ -1,11 +1,5 @@
 # Spotify_Clone
 
-You can view the website by clicking on this link
-
-http://spotifyrah.epizy.com
-
-
-
 First, 
 1. Install Xampp on your system.
 2. RUN "MYSQL & APACHE SERVER".
