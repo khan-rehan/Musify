@@ -23,6 +23,17 @@
 - Manage user details.
 
 ---
+How to run:
+
+```
+- Open Xampp and start Mysql and Apache server and type localhost in browser to check whether its working or not.
+
+- Now in the browser type on localhost/phpmyadmin/ and click on Import on the right side and import spotify.sql
+
+- Place the downloaded source code in htdocs folder of the Xampp folder created by default on installing Xampp & now type localhost/htdocs/corona_tracker/index.php in the browser and there you go!
+```
+
+---
 Gif
 ![Spotify_clone](spotify_clone.gif)
 
